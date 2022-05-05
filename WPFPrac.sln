@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFPrac", "WPFPrac\WPFPrac.csproj", "{988EB629-4712-4313-ABAD-C4DAD04E59AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{988EB629-4712-4313-ABAD-C4DAD04E59AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988EB629-4712-4313-ABAD-C4DAD04E59AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988EB629-4712-4313-ABAD-C4DAD04E59AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988EB629-4712-4313-ABAD-C4DAD04E59AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5B8B5B5-2593-4DE0-98B3-8B61705AF2C3}
+	EndGlobalSection
+EndGlobal
